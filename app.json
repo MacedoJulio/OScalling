@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "OScalling",
+    "slug": "OScalling",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
